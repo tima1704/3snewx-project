@@ -1,0 +1,18 @@
+[
+  {
+    "value": "http_302",
+    "label": "Http 302"
+  },
+  {
+    "value": "http_meta",
+    "label": "Http Meta"
+  },
+  {
+    "value": "js_meta",
+    "label": "Js Meta"
+  },
+  {
+    "value": "http_302_with_hidded_reffer",
+    "label": "Http 302 With Hidded Reffer"
+  }
+]

@@ -1,0 +1,35 @@
+.titleInput {
+  text-transform: capitalize;
+}
+
+.icon {
+  transition: transform 0.2s ease-in-out;
+  width: 20px;
+  height: 20px;
+  margin-right: 25px;
+}
+
+.iconOpen {
+  transform: rotate(-180deg);
+}
+
+.rowTitle {
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 20px;
+  cursor: pointer;
+  text-transform: capitalize;
+}
+
+.rowItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 32px 30px;
+}
+
+.itemMain {
+  padding: 0 30px;
+}

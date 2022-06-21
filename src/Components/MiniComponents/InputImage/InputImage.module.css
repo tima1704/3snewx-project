@@ -1,0 +1,22 @@
+.LogoPreview {
+  border: 1px solid #d6e3ec;
+  box-sizing: border-box;
+
+  width: 200px;
+  height: 200px;
+  margin-bottom: 16px;
+
+  border-radius: 6px;
+}
+
+.imageLogo {
+  border: 1px solid #d6e3ec;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 16px;
+}
+
+.imageLogo img {
+  border-radius: 6px;
+  object-fit: cover;
+}

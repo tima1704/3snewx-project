@@ -1,0 +1,25 @@
+.blockBottom {
+  position: absolute;
+  visibility: hidden;
+  opacity: 0;
+  background: #ffffff;
+  border: 1px solid #d6e3ec;
+  box-shadow: 0px 4px 40px rgba(76, 94, 115, 0.21);
+  padding: 14px;
+  transition: 0.4s;
+  z-index: 100;
+  margin-left: -60px;
+  max-height: 220px;
+  overflow-y: auto;
+}
+
+.hover:hover .blockBottom {
+  visibility: visible;
+  opacity: 1;
+  transition-delay: 0s, 0s, 0.15s;
+}
+
+.checkBoxItem {
+  margin-bottom: 4px;
+  cursor: pointer;
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "value": "mobile",
+    "label": "Mobile"
+  },
+  {
+    "value": "smart_phones",
+    "label": "Smart Phones"
+  },
+  {
+    "value": "tv",
+    "label": "Tv"
+  },
+  {
+    "value": "table",
+    "label": "Table"
+  },
+  {
+    "value": "pc",
+    "label": "Pc"
+  },
+  {
+    "value": "unknown",
+    "label": "Unknown"
+  }
+]

@@ -1,0 +1,43 @@
+.page {
+  width: 75%;
+  padding-bottom: 50px;
+}
+
+.rowInput {
+  display: flex;
+}
+
+.blockInput {
+  flex-basis: 70%;
+}
+
+.blockInputTextArea {
+  min-height: 150px;
+}
+
+.blockInputSelect {
+  width: 200px;
+}
+
+.blockInfo {
+  flex-basis: 30%;
+  padding: 0 24px;
+
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.01em;
+  color: #a6b1b9;
+}
+
+.blockInfo p {
+  margin-bottom: 30px;
+}
+
+.blockInfo span {
+  color: #4f669d;
+}
+
+.numberImput {
+  width: 100px;
+}

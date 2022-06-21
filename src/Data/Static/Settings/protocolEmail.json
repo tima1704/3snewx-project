@@ -1,0 +1,14 @@
+[
+  {
+    "value": "smtp_ssl",
+    "label": "SMTP + SSL"
+  },
+  {
+    "value": "smtp",
+    "label": "SMTP"
+  },
+  {
+    "value": "smtp_tsl",
+    "label": "SMTP + TSL"
+  }
+]

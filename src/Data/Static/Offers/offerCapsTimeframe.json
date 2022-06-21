@@ -1,0 +1,14 @@
+[
+  {
+    "value": "day",
+    "label": "Day"
+  },
+  {
+    "value": "month",
+    "label": "Month"
+  },
+  {
+    "value": "all",
+    "label": "All"
+  }
+]

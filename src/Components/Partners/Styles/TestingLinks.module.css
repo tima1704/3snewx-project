@@ -1,0 +1,42 @@
+.main {
+  margin-top: 60px;
+  width: 60%;
+}
+
+.main h1 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 20px;
+  color: #202f55;
+  margin-bottom: 28px;
+}
+
+.inputsRow {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.inputsRow button {
+  margin-left: 20px;
+  width: 100px;
+}
+
+.inputsRow button:disabled {
+  background: #a6b1b9;
+  border-color: #a6b1b9;
+}
+
+.success {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+  color: #0c783d;
+}
+
+.error {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+
+  color: #ff4b4b;
+}

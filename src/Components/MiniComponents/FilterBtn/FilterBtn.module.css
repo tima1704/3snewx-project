@@ -1,0 +1,22 @@
+.btnRow {
+  display: flex;
+  align-items: center;
+}
+
+.btn {
+  word-wrap: none;
+}
+
+.view {
+  width: 100px;
+  margin-right: 12px;
+}
+
+.reset {
+  width: 148px;
+}
+
+.input {
+  width: 55px;
+  margin-right: 22px;
+}

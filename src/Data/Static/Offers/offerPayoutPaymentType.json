@@ -1,0 +1,10 @@
+[
+  {
+    "value": "fixed_amount",
+    "label": "Fixed Amount"
+  },
+  {
+    "value": "percent",
+    "label": "Percent"
+  }
+]

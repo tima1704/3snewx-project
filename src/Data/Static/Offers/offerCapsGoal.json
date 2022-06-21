@@ -1,0 +1,10 @@
+[
+  {
+    "value": "all",
+    "label": "All"
+  },
+  {
+    "value": "each",
+    "label": "Each"
+  }
+]

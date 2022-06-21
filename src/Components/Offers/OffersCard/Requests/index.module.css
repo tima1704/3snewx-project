@@ -1,0 +1,21 @@
+.rowPages {
+  margin: 20px 0;
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 20px;
+}
+
+.titleTable {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  margin: 42px 0 12px;
+  color: #202f55;
+}
+
+.btnRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 170px;
+}

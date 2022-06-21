@@ -1,0 +1,414 @@
+[
+  {
+    "value": "bada",
+    "label": "Bada"
+  },
+  {
+    "value": "oms",
+    "label": "Oms"
+  },
+  {
+    "value": "openbsd",
+    "label": "Openbsd"
+  },
+  {
+    "value": "ubuntu",
+    "label": "Ubuntu"
+  },
+  {
+    "value": "series_three_0",
+    "label": "Series Three 0"
+  },
+  {
+    "value": "joli_os",
+    "label": "Joli Os"
+  },
+  {
+    "value": "mac_os_x",
+    "label": "Mac Os X"
+  },
+  {
+    "value": "switch",
+    "label": "Switch"
+  },
+  {
+    "value": "superos",
+    "label": "Superos"
+  },
+  {
+    "value": "android_with_carbon",
+    "label": "Android With Carbon"
+  },
+  {
+    "value": "ios",
+    "label": "Ios"
+  },
+  {
+    "value": "freebsd",
+    "label": "Freebsd"
+  },
+  {
+    "value": "sunos",
+    "label": "Sunos"
+  },
+  {
+    "value": "spreadtrum",
+    "label": "Spreadtrum"
+  },
+  {
+    "value": "android_with_panaroid_android",
+    "label": "Android With Panaroid Android"
+  },
+  {
+    "value": "windows",
+    "label": "Windows"
+  },
+  {
+    "value": "blackberry_tablet_os",
+    "label": "Blackberry Tablet Os"
+  },
+  {
+    "value": "threadx",
+    "label": "Threadx"
+  },
+  {
+    "value": "firefox_os",
+    "label": "Firefox Os"
+  },
+  {
+    "value": "mtk",
+    "label": "Mtk"
+  },
+  {
+    "value": "series_80",
+    "label": "Series 80"
+  },
+  {
+    "value": "solaris",
+    "label": "Solaris"
+  },
+  {
+    "value": "xubuntu",
+    "label": "Xubuntu"
+  },
+  {
+    "value": "chromecast",
+    "label": "Chromecast"
+  },
+  {
+    "value": "maemo",
+    "label": "Maemo"
+  },
+  {
+    "value": "symbian",
+    "label": "Symbian"
+  },
+  {
+    "value": "series_90",
+    "label": "Series 90"
+  },
+  {
+    "value": "netbsd",
+    "label": "Netbsd"
+  },
+  {
+    "value": "series_for_0",
+    "label": "Series For 0"
+  },
+  {
+    "value": "rex",
+    "label": "Rex"
+  },
+  {
+    "value": "risc_os",
+    "label": "Risc Os"
+  },
+  {
+    "value": "unix",
+    "label": "Unix"
+  },
+  {
+    "value": "xbox_os",
+    "label": "Xbox Os"
+  },
+  {
+    "value": "dsi_system_software",
+    "label": "Dsi System Software"
+  },
+  {
+    "value": "apple_tv_software",
+    "label": "Apple Tv Software"
+  },
+  {
+    "value": "darwin",
+    "label": "Darwin"
+  },
+  {
+    "value": "tizen",
+    "label": "Tizen"
+  },
+  {
+    "value": "feedfetcher",
+    "label": "Feedfetcher"
+  },
+  {
+    "value": "feature_os",
+    "label": "Feature Os"
+  },
+  {
+    "value": "windows_phone",
+    "label": "Windows Phone"
+  },
+  {
+    "value": "android",
+    "label": "Android"
+  },
+  {
+    "value": "psp_system_software",
+    "label": "Psp System Software"
+  },
+  {
+    "value": "linux_mint",
+    "label": "Linux Mint"
+  },
+  {
+    "value": "android_with_cyanogen_mod",
+    "label": "Android With Cyanogen Mod"
+  },
+  {
+    "value": "mips",
+    "label": "Mips"
+  },
+  {
+    "value": "kubuntu",
+    "label": "Kubuntu"
+  },
+  {
+    "value": "windows_rt",
+    "label": "Windows Rt"
+  },
+  {
+    "value": "series_60",
+    "label": "Series 60"
+  },
+  {
+    "value": "raspbian",
+    "label": "Raspbian"
+  },
+  {
+    "value": "nucleus",
+    "label": "Nucleus"
+  },
+  {
+    "value": "psfor__software",
+    "label": "Psfor  Software"
+  },
+  {
+    "value": "amigaos",
+    "label": "Amigaos"
+  },
+  {
+    "value": "turingos",
+    "label": "Turingos"
+  },
+  {
+    "value": "meego",
+    "label": "Meego"
+  },
+  {
+    "value": "windows_mobile",
+    "label": "Windows Mobile"
+  },
+  {
+    "value": "vre",
+    "label": "Vre"
+  },
+  {
+    "value": "proprietary_os",
+    "label": "Proprietary Os"
+  },
+  {
+    "value": "android_with_aokp",
+    "label": "Android With Aokp"
+  },
+  {
+    "value": "atheos",
+    "label": "Atheos"
+  },
+  {
+    "value": "brew",
+    "label": "Brew"
+  },
+  {
+    "value": "fedora",
+    "label": "Fedora"
+  },
+  {
+    "value": "ps_vita_system_software",
+    "label": "Ps Vita System Software"
+  },
+  {
+    "value": "sailfish_os",
+    "label": "Sailfish Os"
+  },
+  {
+    "value": "qdos",
+    "label": "Qdos"
+  },
+  {
+    "value": "kaios",
+    "label": "Kaios"
+  },
+  {
+    "value": "rtk",
+    "label": "Rtk"
+  },
+  {
+    "value": "vrtxmc",
+    "label": "Vrtxmc"
+  },
+  {
+    "value": "blackberry_os",
+    "label": "Blackberry Os"
+  },
+  {
+    "value": "palmos",
+    "label": "Palmos"
+  },
+  {
+    "value": "wiiu",
+    "label": "Wiiu"
+  },
+  {
+    "value": "victorreader_stream",
+    "label": "Victorreader Stream"
+  },
+  {
+    "value": "menuetos",
+    "label": "Menuetos"
+  },
+  {
+    "value": "windows_server",
+    "label": "Windows Server"
+  },
+  {
+    "value": "linux",
+    "label": "Linux"
+  },
+  {
+    "value": "ose",
+    "label": "Ose"
+  },
+  {
+    "value": "watchos",
+    "label": "Watchos"
+  },
+  {
+    "value": "dr_dos",
+    "label": "Dr Dos"
+  },
+  {
+    "value": "youview_box",
+    "label": "Youview Box"
+  },
+  {
+    "value": "ipados",
+    "label": "Ipados"
+  },
+  {
+    "value": "nucleusos",
+    "label": "Nucleusos"
+  },
+  {
+    "value": "asha",
+    "label": "Asha"
+  },
+  {
+    "value": "beos",
+    "label": "Beos"
+  },
+  {
+    "value": "unknown_mobile_os_jtwo_me",
+    "label": "Unknown Mobile Os Jtwo Me"
+  },
+  {
+    "value": "android_with_liquidsmooth",
+    "label": "Android With Liquidsmooth"
+  },
+  {
+    "value": "os_two_",
+    "label": "Os Two "
+  },
+  {
+    "value": "chromeos",
+    "label": "Chromeos"
+  },
+  {
+    "value": "roku_os",
+    "label": "Roku Os"
+  },
+  {
+    "value": "haiku",
+    "label": "Haiku"
+  },
+  {
+    "value": "windows_nt",
+    "label": "Windows Nt"
+  },
+  {
+    "value": "macos",
+    "label": "Macos"
+  },
+  {
+    "value": "three_ds_system_software",
+    "label": "Three Ds System Software"
+  },
+  {
+    "value": "webos",
+    "label": "Webos"
+  },
+  {
+    "value": "nucleusplus",
+    "label": "Nucleusplus"
+  },
+  {
+    "value": "helenos",
+    "label": "Helenos"
+  },
+  {
+    "value": "psthree__system_software",
+    "label": "Psthree  System Software"
+  },
+  {
+    "value": "android_with_miui",
+    "label": "Android With Miui"
+  },
+  {
+    "value": "pocket_pc_two_000",
+    "label": "Pocket Pc Two 000"
+  },
+  {
+    "value": "unknown_mobile_os",
+    "label": "Unknown Mobile Os"
+  },
+  {
+    "value": "centos",
+    "label": "Centos"
+  },
+  {
+    "value": "fire_os",
+    "label": "Fire Os"
+  },
+  {
+    "value": "quantos",
+    "label": "Quantos"
+  },
+  {
+    "value": "unknown_crawler",
+    "label": "Unknown Crawler"
+  },
+  {
+    "value": "morphos",
+    "label": "Morphos"
+  }
+]

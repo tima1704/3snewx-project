@@ -1,0 +1,221 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.application-context {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+h4 {
+  color: #202f55;
+}
+
+.wrapper {
+  padding: 0 2.5rem;
+}
+
+.header,
+.header a {
+  color: #fff;
+}
+
+.header-navigation {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0.01em;
+}
+
+.user-preference-bar > span {
+  margin-left: 40px;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.btn-primary {
+  color: #fff;
+  border-color: #202f55;
+  background-color: #202f55;
+  border-radius: 6px;
+}
+
+.btn-danger {
+  background: #ff4b4b;
+  border-color: #ff4b4b;
+  border-radius: 6px;
+}
+
+.active-row {
+  background-color: #e1ecf6;
+}
+
+.quick_actions {
+  padding-right: 50px;
+}
+
+.status-block > span {
+  margin-right: 30px;
+}
+
+.status {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border-radius: 8px;
+}
+
+.status-new {
+  background-color: #ff4b4b;
+}
+
+.status-opened {
+  background-color: #0c783d;
+}
+
+.status-closed {
+  background-color: #d6e3ec;
+}
+
+.form-control:focus {
+  outline: 0 !important;
+  box-shadow: none;
+  border-color: #06f;
+}
+
+.input-group .input-group-prepend .input-group-text,
+.form-control ~ .input-group-append .input-group-text {
+  transition: border 0.3s ease-in-out;
+}
+
+.input-group:focus-within .input-group-prepend .input-group-text,
+.form-control:focus ~ .input-group-append .input-group-text {
+  border-color: #06f;
+}
+
+.btn-outline-primary {
+  color: #838eac;
+  border-color: #838eac;
+  stroke: currentColor;
+}
+.btn-outline-primary .btn-outline-primary:hover {
+  color: #fff;
+  border-color: #838eac;
+}
+
+.btn-outline-secondary {
+  color: #202f55;
+  border-color: #838eac;
+  stroke: currentColor;
+}
+.btn-outline-secondary .btn-outline-primary:hover {
+  color: #fff;
+  border-color: #202f55;
+}
+
+.pagination {
+  margin-bottom: 0;
+}
+
+.page-link {
+  border: none;
+  font-size: 12px;
+  color: #4f669d;
+  padding: 0.5rem 0;
+  margin: 0 0.5rem;
+}
+.page-link:hover {
+  background: none;
+}
+
+.page-item .active .page-link {
+  color: #4f669d;
+  background: none;
+  border-bottom: 3px solid #40f3f7;
+}
+
+.total-counter {
+  font-size: 12px;
+  line-height: 16px;
+
+  text-transform: capitalize;
+
+  color: #4f669d;
+}
+
+.spaceBlock32 {
+  margin-bottom: 32px !important;
+}
+
+.spaceBlock20 {
+  margin-bottom: 20px;
+}
+
+.errorMessage {
+  margin-top: 12px;
+  color: #d80027;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.successMessage {
+  margin-top: 12px;
+  color: #0c783d;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.checkbox {
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  padding-left: 28px;
+  flex-basis: 50%;
+}
+
+.checkbox input {
+  width: 16px;
+  height: 16px;
+  margin-top: 0;
+  margin-left: -25px;
+}
+
+.trashBtn {
+  margin-left: 6px;
+}
+
+.btnRowFlexEnd {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  text-transform: capitalize !important;
+}
+
+.btn-close {
+  margin-right: 20px;
+  width: auto;
+  height: 38px;
+  padding: 0 12px;
+  color: #fff;
+  opacity: 1;
+}
+
+.btn-close:hover {
+  color: #fff;
+  opacity: 1;
+}
+
+.form-control[readonly] {
+  background-color: #fff !important;
+}

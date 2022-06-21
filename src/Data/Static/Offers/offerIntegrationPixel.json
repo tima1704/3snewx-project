@@ -1,0 +1,22 @@
+[
+  {
+    "value": "s2s",
+    "label": "S2s"
+  },
+  {
+    "value": "image",
+    "label": "Image"
+  },
+  {
+    "value": "java_script",
+    "label": "Java Script"
+  },
+  {
+    "value": "iframe",
+    "label": "Iframe"
+  },
+  {
+    "value": "ad_words",
+    "label": "Ad Words"
+  }
+]

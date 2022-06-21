@@ -1,0 +1,33 @@
+.filter {
+  margin-bottom: 42px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.right {
+  display: flex;
+}
+
+.left {
+  display: flex;
+}
+
+.dateInput {
+  width: 186px;
+  margin-right: 23px;
+}
+
+.checkboxInput {
+  word-wrap: none;
+  width: 450px;
+  margin-bottom: 0;
+}
+
+.numberInput {
+  width: 50px;
+  margin-right: 20px;
+}
+
+.btn {
+  width: 100px;
+}

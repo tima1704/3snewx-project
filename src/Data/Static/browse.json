@@ -1,0 +1,70 @@
+[
+  {
+    "value": "opera",
+    "label": "Opera"
+  },
+  {
+    "value": "opera_mini",
+    "label": "Opera Mini"
+  },
+  {
+    "value": "yandex_browser",
+    "label": "Yandex Browser"
+  },
+  {
+    "value": "Edge",
+    "label": "Edge"
+  },
+  {
+    "value": "samsung_internet",
+    "label": "Samsung Internet"
+  },
+  {
+    "value": "miui",
+    "label": "Miui"
+  },
+  {
+    "value": "ucweb",
+    "label": "Ucweb"
+  },
+  {
+    "value": "android_browser",
+    "label": "Android Browser"
+  },
+  {
+    "value": "firefox",
+    "label": "Firefox"
+  },
+  {
+    "value": "firefox_mobile",
+    "label": "Firefox Mobile"
+  },
+  {
+    "value": "safari",
+    "label": "Safari"
+  },
+  {
+    "value": "google_chrome",
+    "label": "Google Chrome"
+  },
+  {
+    "value": "mozilla_sea_monkey",
+    "label": "Mozilla Sea Monkey"
+  },
+  {
+    "value": "k_meleon",
+    "label": "K Meleon"
+  },
+  {
+    "value": "omni_web",
+    "label": "Omni Web"
+  },
+  {
+    "value": "konqueror",
+    "label": "Konqueror"
+  },
+  {
+    "value": "epiphany",
+    "label": "Epiphany"
+  }
+]

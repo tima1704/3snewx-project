@@ -1,0 +1,19 @@
+.btnRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.filter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 42px;
+}
+
+.filterInputs {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-column-gap: 12px;
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "value": "not_active",
+    "label": "Not Active"
+  },
+  {
+    "value": "active",
+    "label": "Active"
+  },
+  {
+    "value": "banned",
+    "label": "Banned"
+  },
+  {
+    "value": "on_moderation",
+    "label": "On Moderation"
+  }
+]

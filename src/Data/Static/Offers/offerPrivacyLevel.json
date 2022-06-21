@@ -1,0 +1,18 @@
+[
+  {
+    "value": "public",
+    "label": "Public"
+  },
+  {
+    "value": "pre_moderation",
+    "label": "Pre Moderation"
+  },
+  {
+    "value": "private",
+    "label": "Private"
+  },
+  {
+    "value": "integration",
+    "label": "Integration"
+  }
+]

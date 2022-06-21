@@ -1,0 +1,11 @@
+[
+  {
+    "value": "landing",
+    "label": "Landing"
+  },
+  {
+    "value": "pre_landing",
+    "label": "Pre Landing"
+  },
+  { "value": "error", "label": "Error" }
+]

@@ -1,0 +1,130 @@
+.ContentWrapper {
+  margin: 0 40px 60px 40px;
+  color: #4f669d;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+}
+.ContentWrapper h4 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 20px;
+  margin-bottom: 32px;
+}
+
+.ContentWrapperMain {
+  width: 50%;
+}
+
+.spaceBlock32 {
+  margin-bottom: 32px;
+}
+
+.spaceBlock32 > *:last-child {
+  margin-bottom: 0;
+}
+
+.hoursInput {
+  width: 100px;
+  display: inline;
+  margin-right: 20px;
+}
+
+.spaceBlock12 {
+  margin-bottom: 12px;
+}
+
+.spaceBlock_L20 {
+  margin-left: 20px;
+}
+
+.trafficSources {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.checkbox {
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  padding-left: 28px;
+  flex-basis: 50%;
+}
+
+.checkbox input {
+  width: 16px;
+  height: 16px;
+  margin-top: 0;
+  margin-left: -25px;
+}
+
+.redirectTypeRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.rowOs {
+  display: flex;
+  justify-content: space-between;
+}
+
+.inputOS {
+  flex-basis: 27%;
+  width: 27%;
+}
+
+.rowMobileCarriers {
+  display: flex;
+  justify-content: space-between;
+}
+
+.inputMobileCarriers {
+  flex-basis: 42%;
+  width: 42%;
+}
+
+.rowAllowedSubAccount {
+  margin-bottom: 12px;
+}
+
+.inputRow {
+  display: flex;
+  justify-content: space-between;
+}
+
+.operatorInput {
+  width: 35%;
+}
+
+.checkboxMargin {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.isEmputyTarg {
+  margin-left: 15px;
+}
+
+.affiliateRowBtn {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.integrationPixelSelect {
+  width: 40%;
+  margin-right: 20px;
+}
+
+.securePostbackCodeInput {
+  width: 65%;
+  font-size: 14px;
+  height: 38px;
+}
+
+.securePostbackCodeBtn {
+  width: 30%;
+}

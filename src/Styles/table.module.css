@@ -1,0 +1,64 @@
+.table {
+  width: 100%;
+}
+
+.table .checkBoxTable {
+  margin-bottom: 0;
+}
+
+.tableRowChecked {
+  background: #e1ecf6;
+}
+
+.headerTable {
+  background: #f8fafc;
+}
+.headerTable th {
+  padding: 20px 10px;
+}
+
+.tableRowChecked .btnMakeInactive {
+  padding: 16.24px 0 !important;
+}
+
+.tdCheckBox {
+  padding: 28px 15px !important;
+  width: 16px;
+}
+
+.tdCheckStatus {
+  padding: 28px 20px !important;
+  width: 30px;
+}
+
+.headerTable tr {
+  transition: 0.3s;
+}
+
+.trTable {
+  border-bottom: 1px solid #d6e3ec;
+  transition: 0.3s;
+}
+
+.trTable td {
+  padding: 28px 10px;
+}
+
+.center {
+  text-align: center;
+}
+
+.actionsOne {
+  width: 40px;
+  display: flex;
+}
+
+.actionsTwo {
+  width: 100px;
+  display: flex;
+}
+
+.actionsThree {
+  width: 160px;
+  display: flex;
+}

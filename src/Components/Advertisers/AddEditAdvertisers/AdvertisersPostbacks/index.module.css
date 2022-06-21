@@ -1,0 +1,9 @@
+.rowSecureCod {
+  display: flex;
+}
+
+.btnGenerate {
+  margin-left: 20px;
+  width: auto;
+  min-width: 150px;
+}

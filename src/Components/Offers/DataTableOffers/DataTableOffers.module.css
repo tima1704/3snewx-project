@@ -1,0 +1,27 @@
+.main {
+  margin-bottom: 20px;
+}
+
+.actions {
+  display: flex;
+}
+
+.id {
+  width: 40px;
+}
+
+.title {
+  width: 20%;
+}
+
+.categories {
+  width: 15%;
+}
+
+.notes {
+  width: 20%;
+}
+
+.skeleton {
+  height: 40px;
+}

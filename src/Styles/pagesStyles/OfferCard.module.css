@@ -1,0 +1,71 @@
+.title {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 20px;
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+
+  color: #202f55;
+  margin-bottom: 32px;
+}
+
+.affiliateRow {
+  display: flex;
+}
+
+.editBtn {
+  margin-left: 20px;
+}
+
+.infoPlace {
+  flex-basis: 50%;
+}
+
+.affiliatePlace {
+  flex-basis: calc(50% - 60px);
+  margin-left: 32px;
+  border-left: 1px solid #d6e3ec;
+  padding-left: 27px;
+}
+
+.offerRowBtn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 42px;
+}
+
+.offerLogo {
+  margin-bottom: 42px;
+}
+
+.titleBtnCompInactive {
+  color: #a6b1b9;
+}
+
+.textVerticalAlign {
+  color: #4f669d;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.link {
+  margin-bottom: 16px;
+}
+
+.link a {
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 22px;
+  letter-spacing: 0.01em;
+  color: #4f669d;
+}
+
+.titleTable {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  margin: 42px 0 12px;
+  color: #202f55;
+}

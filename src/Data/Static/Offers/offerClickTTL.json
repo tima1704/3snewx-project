@@ -1,0 +1,22 @@
+[
+  {
+    "value": "day_1",
+    "label": "Day 1"
+  },
+  {
+    "value": "days_7",
+    "label": "Days 7"
+  },
+  {
+    "value": "days_30",
+    "label": "Days 30"
+  },
+  {
+    "value": "year_1",
+    "label": "Year 1"
+  },
+  {
+    "value": "custom",
+    "label": "Custom"
+  }
+]

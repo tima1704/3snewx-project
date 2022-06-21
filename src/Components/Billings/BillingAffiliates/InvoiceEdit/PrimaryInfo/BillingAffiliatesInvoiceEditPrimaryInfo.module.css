@@ -1,0 +1,53 @@
+.title {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 20px;
+
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+
+  color: #202f55;
+  margin-bottom: 48px;
+}
+
+.mainRow {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 40px;
+}
+
+.form {
+  color: #4F669D;
+  padding-right: 130px;
+}
+
+.payoutRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btnCorrectrion {
+  margin-left: 10px;
+  width: 100px;
+}
+
+.btnSaveRow {
+  display: flex;
+  justify-content: center;
+}
+
+.btnSave {
+  width: 108px;
+}
+
+.textVerticalAlign {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+
+.titleBtnCompInactive {
+  color: #A6B1B9;
+}

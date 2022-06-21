@@ -1,0 +1,57 @@
+.title {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 20px;
+  text-transform: capitalize;
+
+  color: #202f55;
+  margin-bottom: 32px;
+}
+
+.rowInvoice {
+  display: flex;
+}
+
+.formInvoice {
+  padding-right: 42px;
+  flex-basis: 60%;
+  color: #4f669d;
+}
+
+.errorInvoice {
+  padding-top: 50px;
+  padding-left: 42px;
+  border-left: 1px solid #d6e3ec;
+  flex-basis: 40%;
+}
+
+.errorTitle {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+
+  color: #d80027;
+  margin-bottom: 29px;
+}
+
+.dateRow {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dateInput {
+  flex-basis: 60%;
+}
+
+.dateBtn {
+  flex-basis: 35%;
+}
+
+.btnRow {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btn {
+  width: 107px;
+}

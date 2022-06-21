@@ -1,0 +1,41 @@
+.errorCard {
+  padding: 16px 12px;
+  margin-bottom: 20px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+
+  color: #4f669d;
+  cursor: pointer;
+  padding-right: 5px;
+}
+
+.accordionCard {
+  padding: 16px 12px 0 12px;
+  margin-bottom: 20px;
+}
+
+.accordionBlock {
+  margin-top: 16px;
+}
+
+.btn {
+  margin-top: 12px;
+}
+
+.icon {
+  transition: transform 0.2s ease-in-out;
+  width: 20px;
+  height: 20px;
+}
+
+.iconOpen {
+  transform: rotate(-180deg);
+}

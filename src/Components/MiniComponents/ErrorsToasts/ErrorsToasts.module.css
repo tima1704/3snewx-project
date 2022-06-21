@@ -1,0 +1,21 @@
+.toastsContainer {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.toastHeader {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+
+.toast {
+  min-width: 270px;
+  /* padding: 10px; */
+}
+
+.toast .icon {
+  min-width: 24px;
+}

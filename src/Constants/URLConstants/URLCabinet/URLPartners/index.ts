@@ -1,0 +1,50 @@
+export const URL_PARTNERS = "/partners";
+
+// MANAGMENT
+export const URL_PARTNERS_MANAGMENT = URL_PARTNERS + "/affiliate-management",
+  URL_PARTNERS_MANAGMENT_IMPORT = URL_PARTNERS_MANAGMENT + "/import",
+  URL_PARTNERS_MANAGMENT_EXPORT = URL_PARTNERS_MANAGMENT + "/export";
+
+type tabsAffiliate =
+  | "primary-info"
+  | "referrals"
+  | "tickets"
+  | "tasks"
+  | "postbacks"
+  | "payment-method"
+  | "billing"
+  | "logs";
+
+// AFFILIATE
+export const URL_PARTNERS_MANAGMENT_NEW =
+  URL_PARTNERS_MANAGMENT + "/affiliates/new";
+export const URL_PARTNERS_MANAGMENT_AFFILIATES_$ID =
+    URL_PARTNERS_MANAGMENT + "/affiliates/:id",
+  URL_PARTNERS_MANAGMENT_AFFILIATES_ID_PRIMARY_INFO =
+    URL_PARTNERS_MANAGMENT_AFFILIATES_$ID + "/primary-info",
+  URL_PARTNERS_MANAGMENT_AFFILIATES_ID_REFERRALS =
+    URL_PARTNERS_MANAGMENT_AFFILIATES_$ID + "/referrals",
+  URL_PARTNERS_MANAGMENT_AFFILIATES_ID_TICKETS =
+    URL_PARTNERS_MANAGMENT_AFFILIATES_$ID + "/tickets",
+  URL_PARTNERS_MANAGMENT_AFFILIATES_ID_TASKS =
+    URL_PARTNERS_MANAGMENT_AFFILIATES_$ID + "/tasks",
+  URL_PARTNERS_MANAGMENT_AFFILIATES_ID_POSTBACKS =
+    URL_PARTNERS_MANAGMENT_AFFILIATES_$ID + "/postbacks",
+  URL_PARTNERS_MANAGMENT_AFFILIATES_ID_PAYMENT_METHOD =
+    URL_PARTNERS_MANAGMENT_AFFILIATES_$ID + "/payment-method",
+  URL_PARTNERS_MANAGMENT_AFFILIATES_ID_BILLING =
+    URL_PARTNERS_MANAGMENT_AFFILIATES_$ID + "/billing",
+  URL_PARTNERS_MANAGMENT_AFFILIATES_ID_LOGS =
+    URL_PARTNERS_MANAGMENT_AFFILIATES_$ID + "/logs",
+  URL_PARTNERS_MANAGMENT_AFFILIATES = (
+    id: string | number = "new",
+    tab: tabsAffiliate = "primary-info"
+  ) => URL_PARTNERS_MANAGMENT + `/affiliates/${id}/${tab}`;
+
+//AN_AUTH_LOG
+export const URL_PARTNERS_AFFILIATES_AN_AUTH_LOG =
+  URL_PARTNERS + "/affiliates-an-auth-log";
+// testing-links
+export const URL_PARTNERS_TESTING_LINKS = URL_PARTNERS + "/testing-links";
+// top-affiliates
+export const URL_PARTNERS_TOP_AFFILIATES = URL_PARTNERS + "/top-affiliates";

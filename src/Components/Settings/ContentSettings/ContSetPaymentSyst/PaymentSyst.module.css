@@ -1,0 +1,59 @@
+.form_field_header {
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.01em;
+  text-transform: capitalize;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.form_field_row {
+  display: flex;
+  /* align-items: center; */
+  margin-bottom: 16px;
+}
+
+.form_field_title {
+  flex-basis: 56%;
+}
+.form_field_requare {
+  flex-basis: 22%;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.form_field_requare div {
+  margin-bottom: 0;
+  display: block;
+}
+
+.form_field_requare input {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ced4da;
+}
+
+.form_field_action {
+  flex-basis: 22%;
+  text-align: center;
+}
+
+.itemTitle {
+  width: 55%;
+}
+
+.itemCurrencie {
+  width: 20%;
+}
+
+.itemFields {
+  width: 25%;
+}
+
+.itemActions {
+  width: 106px;
+  display: flex;
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "value": "all",
+    "label": "All"
+  },
+  {
+    "value": "wifi",
+    "label": "WI-FI"
+  },
+  {
+    "value": "cellular",
+    "label": "Cellular"
+  }
+]

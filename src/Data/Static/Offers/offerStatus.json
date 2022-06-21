@@ -1,0 +1,14 @@
+[
+  {
+    "value": "active",
+    "label": "Active"
+  },
+  {
+    "value": "disabled",
+    "label": "Disabled"
+  },
+  {
+    "value": "paused",
+    "label": "Paused"
+  }
+]

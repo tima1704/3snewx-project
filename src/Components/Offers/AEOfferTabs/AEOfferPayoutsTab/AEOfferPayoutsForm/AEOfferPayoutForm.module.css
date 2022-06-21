@@ -1,0 +1,9 @@
+.rowTitleBtn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.trackingURLRow {
+  width: 50%;
+}

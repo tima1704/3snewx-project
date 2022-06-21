@@ -1,0 +1,65 @@
+body,
+#root {
+  min-height: 100vh;
+  height: 100%;
+}
+
+body {
+  overflow-y: scroll;
+}
+
+.container-c {
+  height: 100%;
+}
+
+.contnent-40p {
+  width: 40%;
+}
+
+.contnent-50p {
+  width: 50%;
+}
+
+.contnent-60p {
+  width: 60%;
+}
+
+.contnent-70p {
+  width: 70%;
+}
+
+.ml12 {
+  margin-left: 12px;
+}
+
+.mr12 {
+  margin-right: 12px;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 20px;
+  text-transform: capitalize;
+  color: #202f55;
+  margin-bottom: 32px;
+}
+
+.skeleton-input {
+  height: 40px;
+}
+
+.skeleton-text {
+  height: 15px;
+}
+
+.skeleton-textarea {
+  height: 62px;
+}
+
+.skeleton-btn {
+  height: 38px;
+}
+
+@import url(./actionButtons.css);
+@import url(./adminTheme.css);

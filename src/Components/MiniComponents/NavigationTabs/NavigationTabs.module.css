@@ -1,0 +1,29 @@
+.NavigationTabs {
+  border-bottom: 1px solid #d6e3ec;
+  margin-bottom: 32px;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.01em;
+}
+.NavigationTabs a {
+  color: #a6b1b9;
+  border-bottom: 3px solid transparent;
+}
+.NavigationTabs .active {
+  color: #202f55;
+  border-bottom: 3px solid #202f55;
+}
+
+.badges {
+  color: #fff;
+  margin-left: 5px;
+  font-size: 10px;
+  width: 15px;
+  height: 15px;
+  vertical-align: top;
+  text-align: center;
+  padding: 2.5px 4px 2.5px 4.5px;
+}

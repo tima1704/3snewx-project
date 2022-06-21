@@ -1,0 +1,14 @@
+.table {
+  overflow-x: auto;
+  max-width: calc(100vw - 5em);
+}
+
+.btnActions {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.btnDecline {
+  margin-right: 5px;
+}

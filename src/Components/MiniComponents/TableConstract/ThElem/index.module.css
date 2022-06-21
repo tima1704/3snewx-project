@@ -1,0 +1,41 @@
+.title {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: capitalize;
+  color: #202f55;
+  text-align: center;
+  vertical-align: middle;
+  padding: 20px 8px 12px;
+  border-right: 0.5px solid #d6e3ec;
+  border-left: 0.5px solid #d6e3ec;
+  border-bottom: 0.5px solid #d6e3ec;
+}
+
+.minititle {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #000000;
+  vertical-align: middle;
+  padding: 12px 8px;
+  border-right: 0.5px solid #d6e3ec;
+  border-left: 0.5px solid #d6e3ec;
+  border-bottom: 0.5px solid #d6e3ec;
+}
+
+.sort {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: capitalize;
+  color: #000000;
+  text-align: center;
+  vertical-align: middle;
+  padding: 12px 8px;
+  border-right: 0.5px solid #d6e3ec;
+  border-left: 0.5px solid #d6e3ec;
+  border-bottom: 0.5px solid #d6e3ec;
+}

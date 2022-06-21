@@ -1,0 +1,21 @@
+.header {
+  background-color: #202f55;
+  height: 83px;
+  padding: 0 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__plug {
+}
+
+.header__links a {
+  color: #ffffff;
+}
+
+.header_lang-user {
+  display: flex;
+  align-items: center;
+}

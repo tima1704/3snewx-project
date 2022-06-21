@@ -1,0 +1,14 @@
+[
+  {
+    "value": "all",
+    "label": "All"
+  },
+  {
+    "value": "each",
+    "label": "Each"
+  },
+  {
+    "value": "select",
+    "label": "Select"
+  }
+]

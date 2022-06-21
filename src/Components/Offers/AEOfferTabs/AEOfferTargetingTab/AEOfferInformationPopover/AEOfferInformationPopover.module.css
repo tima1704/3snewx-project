@@ -1,0 +1,15 @@
+.blueText {
+  color: #4f669d;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.01em;
+}
+
+.grayText {
+  color: #c7c7c7;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.01em;
+}

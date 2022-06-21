@@ -1,0 +1,58 @@
+.historyBlock {
+  padding-left: 42px;
+  border-left: 1px solid #d6e3ec;
+}
+
+.historyBlock h2 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  color: #202f55;
+  margin-left: 12px;
+  margin-bottom: 20px;
+}
+
+.cardHistory {
+  padding: 16px 12px;
+  margin-bottom: 20px;
+  max-width: 470px;
+}
+
+.cardDate {
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: capitalize;
+
+  color: #000000;
+  margin-bottom: 17px;
+}
+
+.cardHistoryRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #4f669d;
+}
+
+.cardHistoryRow span {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #7c8cb3;
+}
+
+.cardComment {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #4f669d;
+}
+
+.cardComment span {
+  color: #a6b1b9;
+}

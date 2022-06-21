@@ -1,0 +1,14 @@
+[
+  {
+    "value": "system",
+    "label": "System"
+  },
+  {
+    "value": "announcements",
+    "label": "Announcements"
+  },
+  {
+    "value": "weekly_summaries",
+    "label": "Weekly summaries"
+  }
+]

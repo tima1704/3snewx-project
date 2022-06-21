@@ -1,0 +1,18 @@
+[
+  {
+    "value": "pending",
+    "label": "Pending"
+  },
+  {
+    "value": "approved",
+    "label": "Approved"
+  },
+  {
+    "value": "declined",
+    "label": "Declined"
+  },
+  {
+    "value": "hold",
+    "label": "Hold"
+  }
+]

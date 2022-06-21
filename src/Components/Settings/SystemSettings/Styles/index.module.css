@@ -1,0 +1,46 @@
+.btnSaveRow {
+  padding-bottom: 40px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.btnGenerateRow {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header {
+  margin: 32px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header h3 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  height: auto;
+}
+
+.btnGenerateCode {
+  width: 25%;
+  margin-left: 20px;
+}
+
+.rowEmailString {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+.emailCloseBtn {
+  margin-right: 20px;
+}
+
+.ContentWrapperPages {
+  width: 50%;
+}
+
+.ContentWrapperPagesLarge {
+  width: 70%;
+}

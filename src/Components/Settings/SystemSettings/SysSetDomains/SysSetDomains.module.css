@@ -1,0 +1,22 @@
+.urlName {
+  width: 30%;
+}
+
+.urlLink {
+  width: 30%;
+}
+
+.http {
+  width: 10%;
+  vertical-align: middle;
+}
+
+.https {
+  width: 10%;
+  vertical-align: middle;
+}
+
+.options {
+  width: 152px;
+  display: flex;
+}
